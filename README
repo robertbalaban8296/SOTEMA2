@@ -1,0 +1,8 @@
+BALABAN Robert-Adrian
+Grupa: 334CC
+
+	Am implementat tema conform enuntului. Am creat functii ajutatoare pentru
+a evita incalcarea principiului DRY (equ, closeDescriptors, getFlag, fail... ).
+In functia parse_simple am tratat fiecare tip de comanda. In functia do_on_pipe 
+folosesc 2 descriptori de fisiere, iar in functia do_in_parallel, pentru a 
+executa in paralel comenzile am folosit doua procese.
